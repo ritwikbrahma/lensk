@@ -1,0 +1,33 @@
+.example-card1 {
+    width: 30%;
+    height:300px;
+    padding: 0px !important;
+    margin: 5px;
+  }
+  .example-card2 {
+    width: 40%;
+    height:300px;
+    padding: 0px !important;
+    margin: 5px;
+  }
+  .example-card3 {
+    width: 30%;
+    height:300px;
+    padding: 0px !important;
+    margin: 5px;
+  }
+
+  .swiper {
+    height: 200px;
+    width: 80%;
+    margin: auto;
+}
+ 
+.swiper-slide img {
+        width: 80%;    
+}
+
+  .container {
+    margin-top: 50px;
+    display: flex;
+  }
